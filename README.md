@@ -1,10 +1,10 @@
-1 - B
-2 - B
-3 - D
-4 - D
-5 - B
-6 - B
-7 - 
+1) B
+2) B
+3) D
+4) D
+5) B
+6) B
+7)    
 var idade 
 if idade < 16
 	não pode votar
@@ -13,7 +13,7 @@ else if idade >= 16 && idade <18
 else 
 	voto obrigatório
 
-8- 
+8) 
 Classe FormaGeometrica:
     Atributos:
         - cor
@@ -51,7 +51,7 @@ Classe Circulo herda FormaGeometrica
         π * raio * raio
     
 
-9- 
+9) 
 var velocidadeMaxima
 var velocidadeInicial
 var tempoMaximo
