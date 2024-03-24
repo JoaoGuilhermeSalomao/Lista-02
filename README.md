@@ -4,7 +4,8 @@
 4) D
 5) B
 6) B
-7)    
+7)
+```javascript
 var idade 
 if idade < 16
 	não pode votar
@@ -12,8 +13,9 @@ else if idade >= 16 && idade <18
 	voto facultativo
 else 
 	voto obrigatório
-
-8) 
+```
+8)
+```javascript
 Classe FormaGeometrica:
     Atributos:
         - cor
@@ -49,9 +51,10 @@ Classe Circulo herda FormaGeometrica
 
     Método CalcularArea(): 
         π * raio * raio
-    
+```
 
-9) 
+9)
+```javascript
 var velocidadeMaxima
 var velocidadeInicial
 var tempoMaximo
@@ -73,3 +76,4 @@ if tempo <= tempoMaximo
     tempo ++
 else 
     console.log(tempo excedido)
+```
